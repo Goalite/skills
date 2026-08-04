@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "1.0",
+  "methodologies": [
+    {
+      "key": "demo-growth-plan",
+      "name": "Demo Growth Plan",
+      "profileVersion": 1000000,
+      "skillUrl": "https://api.goalite.io/methodologies/demo-growth-plan/assistant/skill.md",
+      "manifestUrl": "https://api.goalite.io/methodologies/demo-growth-plan/assistant/manifest.json"
+    },
+    {
+      "key": "example-sample-methodology",
+      "name": "Example Sample Methodology",
+      "profileVersion": 1000,
+      "skillUrl": "https://api.goalite.io/methodologies/example-sample-methodology/assistant/skill.md",
+      "manifestUrl": "https://api.goalite.io/methodologies/example-sample-methodology/assistant/manifest.json"
+    },
+    {
+      "key": "goalite-impact",
+      "name": "The IMPACT Framework",
+      "summary": "Turn an ambition into a funded, measurable plan with the IMPACT Framework — conducted step by step by AI, certified by the method's owner.",
+      "profileVersion": 2000000,
+      "skillUrl": "https://api.goalite.io/methodologies/goalite-impact/assistant/skill.md",
+      "manifestUrl": "https://api.goalite.io/methodologies/goalite-impact/assistant/manifest.json"
+    }
+  ]
+}
