@@ -5,6 +5,7 @@
       "key": "demo-growth-plan",
       "name": "Demo Growth Plan",
       "profileVersion": 1000000,
+      "connectUrl": "https://demo-growth-plan.mcp.goalite.io",
       "skillUrl": "https://api.goalite.io/methodologies/demo-growth-plan/assistant/skill.md",
       "manifestUrl": "https://api.goalite.io/methodologies/demo-growth-plan/assistant/manifest.json"
     },
@@ -12,6 +13,7 @@
       "key": "example-sample-methodology",
       "name": "Example Sample Methodology",
       "profileVersion": 1000,
+      "connectUrl": "https://example-sample-methodology.mcp.goalite.io",
       "skillUrl": "https://api.goalite.io/methodologies/example-sample-methodology/assistant/skill.md",
       "manifestUrl": "https://api.goalite.io/methodologies/example-sample-methodology/assistant/manifest.json"
     },
@@ -20,6 +22,7 @@
       "name": "The IMPACT Framework",
       "summary": "Turn an ambition into a funded, measurable plan with the IMPACT Framework — conducted step by step by AI, certified by the method's owner.",
       "profileVersion": 2000000,
+      "connectUrl": "https://goalite-impact.mcp.goalite.io",
       "skillUrl": "https://api.goalite.io/methodologies/goalite-impact/assistant/skill.md",
       "manifestUrl": "https://api.goalite.io/methodologies/goalite-impact/assistant/manifest.json"
     }
