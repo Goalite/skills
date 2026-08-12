@@ -18,6 +18,14 @@
       "manifestUrl": "https://api.goalite.io/methodologies/example-sample-methodology/assistant/manifest.json"
     },
     {
+      "key": "sostac-preview",
+      "name": "SOSTAC Preview (build)",
+      "profileVersion": 1000,
+      "connectUrl": "https://sostac-preview.mcp.goalite.io",
+      "skillUrl": "https://api.goalite.io/methodologies/sostac-preview/assistant/skill.md",
+      "manifestUrl": "https://api.goalite.io/methodologies/sostac-preview/assistant/manifest.json"
+    },
+    {
       "key": "goalite-impact",
       "name": "The IMPACT Framework",
       "summary": "Turn an ambition into a funded, measurable plan with the IMPACT Framework — conducted step by step by AI, certified by the method's owner.",
