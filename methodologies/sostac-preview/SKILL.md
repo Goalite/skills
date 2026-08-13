@@ -1,11 +1,11 @@
 ---
 name: "sostac-preview"
-description: "Use the SOSTAC Preview (build) methodology through Goalite."
+description: "Use the SOSTAC\u00AE Plans methodology through Goalite."
 ---
 
-# SOSTAC Preview (build)
+# SOSTAC® Plans
 
-Use the SOSTAC Preview (build) methodology through Goalite.
+Use the SOSTAC® Plans methodology through Goalite.
 
 ## Access
 - Discovery: find the method, understand its offer, and inspect access before signing in.
