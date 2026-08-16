@@ -29,7 +29,7 @@
       "key": "goalite-impact",
       "name": "The IMPACT Framework",
       "summary": "Turn an ambition into a funded, measurable plan with the IMPACT Framework — conducted step by step by AI, certified by the method's owner.",
-      "profileVersion": 2000000,
+      "profileVersion": 2001000,
       "connectUrl": "https://goalite-impact.mcp.goalite.io",
       "skillUrl": "https://api.goalite.io/methodologies/goalite-impact/assistant/skill.md",
       "manifestUrl": "https://api.goalite.io/methodologies/goalite-impact/assistant/manifest.json"

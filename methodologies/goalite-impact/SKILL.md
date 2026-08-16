@@ -12,12 +12,13 @@ The IMPACT Framework walks you from a raw ambition to a working, reviewable plan
 ## Access
 - Discovery: find the method, understand its offer, and inspect access before signing in.
 - Account: connect a free Goalite account to save work across assistants.
-- Paid execution: metered AI steps use credits; check entitlement and cost before running one.
+- Paid execution: AI exercises use credits; check entitlement and cost before running one.
 
 ## What it offers
 - AI-guided exercise: A guided AI conversation that draws out your thinking and captures it as you go. (access: paid, 8 credit(s) per full pass)
 - AI generation: A one-off AI step that drafts or suggests something from the work you've captured. (access: paid, 13 credit(s) per full pass)
 - AI review: An AI critique of your work that flags what to strengthen before you move on. (access: paid, 2 credit(s) per full pass)
+- Reference resource: Reference material the author recommends for you to review in context. (access: account)
 - Recurring work: Tasks or habits you keep and log over time, building a streak. (access: account)
 
 ## Deliverables
@@ -25,4 +26,5 @@ The IMPACT Framework walks you from a raw ambition to a working, reviewable plan
 - Transform: Markdown, Pdf (certifiable)
 
 ## Start
-Use methodology key `goalite-impact` with the Goalite MCP server. Check access before starting or spending credits.
+Add this method to your AI assistant as an MCP connector at `https://goalite-impact.mcp.goalite.io`. Sign in when prompted (a free Goalite account), then check access before
+starting or spending credits.
