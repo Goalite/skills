@@ -1,11 +1,13 @@
 ---
 name: "sostac-preview"
-description: "Use the SOSTAC\u00AE Plans methodology through Goalite."
+description: "Turn strategic ambition into a professional, executable marketing plan across six proven stages: Situation, Objectives, Strategy, Tactics, Action, and Control."
 ---
 
 # SOSTAC® Plans
 
-Use the SOSTAC® Plans methodology through Goalite.
+Turn strategic ambition into a professional, executable marketing plan across six proven stages: Situation, Objectives, Strategy, Tactics, Action, and Control.
+
+PR Smith's SOSTAC® is the world's most widely taught marketing planning framework, used by practitioners in over 100 countries for more than 30 years. It takes you through six stages — Situation, Objectives, Strategy, Tactics, Action, and Control — to build a plan that's grounded in where you are now, clear on what you're aiming for, and honest about how you'll know it's working. This isn't a generic AI approximation of a framework; it's the certified, method-faithful version of SOSTAC®, run under license and delivered exactly as PR Smith teaches it.
 
 ## Access
 - Discovery: find the method, understand its offer, and inspect access before signing in.
