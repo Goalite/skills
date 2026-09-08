@@ -24,6 +24,14 @@ PR Smith's SOSTAC® is the world's most widely taught marketing planning framewo
 - Situation Analysis: Markdown, Pdf
 - Control: Markdown, Pdf, Word
 
+## FAQ
+**What are SOSTAC® AI Assisted Plans?**
+We are now offering SOSTAC® AI Assisted Plans that walks professionals through each stage, checks correct info has been used, develops strategic options, the chosen strategy cascades into tactics which are converted into Actions that integrate with workflows. Nudged again in real time as results are measured & used to continue improving results. Human choices & checks are required at each gate. more info coming soon on sostac.org
+
+**How will professionals use SOSTAC® AI Assisted Plans?**
+Some people will use it to build a more robust plan and others will use it to continually tweak and improve a plan via the ongoing nudges & checks that are built in. Some consultants will use it to write better, quicker and more robust plans for their many different clients.
+
+
 ## Start
 Add this method to your AI assistant as an MCP connector at `https://sostac-preview.mcp.goalite.io`. Sign in when prompted (a free Goalite account), then check access before
 starting or spending credits.
