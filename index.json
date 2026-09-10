@@ -19,9 +19,9 @@
     },
     {
       "key": "sostac-preview",
-      "name": "SOSTAC® Plans Preview",
+      "name": "SOSTAC Preview (build)",
       "summary": "Turn strategic ambition into a professional, executable marketing plan across six proven stages: Situation, Objectives, Strategy, Tactics, Action, and Control.",
-      "profileVersion": 1003,
+      "profileVersion": 1007,
       "connectUrl": "https://sostac-preview.mcp.goalite.io",
       "skillUrl": "https://api.goalite.io/methodologies/sostac-preview/assistant/skill.md",
       "manifestUrl": "https://api.goalite.io/methodologies/sostac-preview/assistant/manifest.json"

@@ -18,13 +18,17 @@ PR Smith's SOSTAC® is the world's most widely taught marketing planning framewo
 - Paid execution: AI exercises use credits; check entitlement and cost before running one.
 
 ## What it offers
-- AI-guided exercise: A guided AI conversation that draws out your thinking and captures it as you go. (access: paid, 20 credit(s) per full pass)
+- AI-guided exercise: A guided AI conversation that draws out your thinking and captures it as you go. (access: paid, 24 credit(s) per full pass)
 - AI generation: A one-off AI step that drafts or suggests something from the work you've captured. (access: paid, 11 credit(s) per full pass)
-- AI review: An AI critique of your work that flags what to strengthen before you move on. (access: paid, 3 credit(s) per full pass)
+- AI review: An AI critique of your work that flags what to strengthen before you move on. (access: paid, 18 credit(s) per full pass)
 - Reference resource: Reference material the author recommends for you to review in context. (access: account)
 
 ## Deliverables
 - Situation Analysis: Markdown, Pdf
+- Objectives: Markdown, Pdf, Word
+- Strategy: Markdown, Pdf, Word
+- Tactics: Markdown, Pdf, Word
+- Actions: Markdown, Pdf, Word
 - Control: Markdown, Pdf, Word
 
 ## FAQ
