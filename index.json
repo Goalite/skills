@@ -2,29 +2,22 @@
   "schemaVersion": "1.0",
   "methodologies": [
     {
-      "key": "demo-growth-plan",
-      "name": "Demo Growth Plan",
-      "profileVersion": 1000000,
-      "connectUrl": "https://demo-growth-plan.mcp.goalite.io",
-      "skillUrl": "https://api.goalite.io/methodologies/demo-growth-plan/assistant/skill.md",
-      "manifestUrl": "https://api.goalite.io/methodologies/demo-growth-plan/assistant/manifest.json"
-    },
-    {
-      "key": "example-sample-methodology",
-      "name": "Example Sample Methodology",
-      "profileVersion": 1000,
-      "connectUrl": "https://example-sample-methodology.mcp.goalite.io",
-      "skillUrl": "https://api.goalite.io/methodologies/example-sample-methodology/assistant/skill.md",
-      "manifestUrl": "https://api.goalite.io/methodologies/example-sample-methodology/assistant/manifest.json"
-    },
-    {
       "key": "sostac-preview",
       "name": "SOSTAC Preview (build)",
       "summary": "Turn strategic ambition into a professional, executable marketing plan across six proven stages: Situation, Objectives, Strategy, Tactics, Action, and Control.",
-      "profileVersion": 1007,
+      "profileVersion": 1009,
       "connectUrl": "https://sostac-preview.mcp.goalite.io",
       "skillUrl": "https://api.goalite.io/methodologies/sostac-preview/assistant/skill.md",
       "manifestUrl": "https://api.goalite.io/methodologies/sostac-preview/assistant/manifest.json"
+    },
+    {
+      "key": "sostac-plans",
+      "name": "SOSTAC® Plans",
+      "summary": "Turn strategic ambition into a professional, executable marketing plan across six proven stages: Situation, Objectives, Strategy, Tactics, Action, and Control.",
+      "profileVersion": 1,
+      "connectUrl": "https://sostac-plans.mcp.goalite.io",
+      "skillUrl": "https://api.goalite.io/methodologies/sostac-plans/assistant/skill.md",
+      "manifestUrl": "https://api.goalite.io/methodologies/sostac-plans/assistant/manifest.json"
     },
     {
       "key": "goalite-impact",

@@ -1,5 +1,5 @@
 ---
-name: "sostac-preview"
+name: "sostac-plans"
 description: "Turn strategic ambition into a professional, executable marketing plan across six proven stages: Situation, Objectives, Strategy, Tactics, Action, and Control."
 ---
 
@@ -8,9 +8,6 @@ description: "Turn strategic ambition into a professional, executable marketing 
 Turn strategic ambition into a professional, executable marketing plan across six proven stages: Situation, Objectives, Strategy, Tactics, Action, and Control.
 
 PR Smith's SOSTAC® is the world's most widely taught marketing planning framework, used by practitioners in over 100 countries for more than 30 years. It takes you through six stages — Situation, Objectives, Strategy, Tactics, Action, and Control — to build a plan that's grounded in where you are now, clear on what you're aiming for, and honest about how you'll know it's working. This isn't a generic AI approximation of a framework; it's the certified, method-faithful version of SOSTAC®, run under license and delivered exactly as PR Smith teaches it.
-
-## What you'll walk away with
-- Situation Analysis
 
 ## Access
 - Discovery: find the method, understand its offer, and inspect access before signing in.
@@ -24,7 +21,7 @@ PR Smith's SOSTAC® is the world's most widely taught marketing planning framewo
 - Reference resource: Reference material the author recommends for you to review in context. (access: account)
 
 ## Deliverables
-- Situation Analysis: Markdown, Pdf, Word
+- Situation Analysis: Markdown, Pdf
 - Objectives: Markdown, Pdf, Word
 - Strategy: Markdown, Pdf, Word
 - Tactics: Markdown, Pdf, Word
@@ -40,5 +37,5 @@ Some people will use it to build a more robust plan and others will use it to co
 
 
 ## Start
-Add this method to your AI assistant as an MCP connector at `https://sostac-preview.mcp.goalite.io`. Sign in when prompted (a free Goalite account), then check access before
+Add this method to your AI assistant as an MCP connector at `https://sostac-plans.mcp.goalite.io`. Sign in when prompted (a free Goalite account), then check access before
 starting or spending credits.
