@@ -5,7 +5,7 @@
       "key": "sostac-plans",
       "name": "SOSTAC® Plans",
       "summary": "Turn strategic ambition into a professional, executable marketing plan across six proven stages: Situation, Objectives, Strategy, Tactics, Action, and Control.",
-      "profileVersion": 1,
+      "profileVersion": 2,
       "connectUrl": "https://sostac-plans.mcp.goalite.io",
       "skillUrl": "https://api.goalite.io/methodologies/sostac-plans/assistant/skill.md",
       "manifestUrl": "https://api.goalite.io/methodologies/sostac-plans/assistant/manifest.json"

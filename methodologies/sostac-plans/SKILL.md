@@ -21,12 +21,12 @@ PR Smith's SOSTAC® is the world's most widely taught marketing planning framewo
 - Reference resource: Reference material the author recommends for you to review in context. (access: account)
 
 ## Deliverables
-- Situation Analysis: Markdown, Pdf
+- Situation Analysis: Markdown, Pdf, Word
 - Objectives: Markdown, Pdf, Word
 - Strategy: Markdown, Pdf, Word
 - Tactics: Markdown, Pdf, Word
 - Actions: Markdown, Pdf, Word
-- Control: Markdown, Pdf, Word
+- Control: Markdown, Pdf, Word (certifiable)
 
 ## FAQ
 **What are SOSTAC® AI Assisted Plans?**
