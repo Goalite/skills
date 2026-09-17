@@ -3,11 +3,23 @@ name: "sostac-plans"
 description: "Turn strategic ambition into a professional, executable marketing plan across six proven stages: Situation, Objectives, Strategy, Tactics, Action, and Control."
 ---
 
-# SOSTAC® Plans
+# SOSTAC ® AI Assisted Plans
 
 Turn strategic ambition into a professional, executable marketing plan across six proven stages: Situation, Objectives, Strategy, Tactics, Action, and Control.
 
-PR Smith's SOSTAC® is the world's most widely taught marketing planning framework, used by practitioners in over 100 countries for more than 30 years. It takes you through six stages — Situation, Objectives, Strategy, Tactics, Action, and Control — to build a plan that's grounded in where you are now, clear on what you're aiming for, and honest about how you'll know it's working. This isn't a generic AI approximation of a framework; it's the certified, method-faithful version of SOSTAC®, run under license and delivered exactly as PR Smith teaches it.
+PR Smith's SOSTAC® is the world's most widely taught marketing planning framework, used by practitioners in over 100 countries for more than 30 years. It takes you through six stages — Situation, Objectives, Strategy, Tactics, Action, and Control — to build a plan that's grounded in where you are now, clear on what you're aiming for, how you will get there and honest about how you'll know it's working. This isn't a generic AI approximation of a framework; it's the certified, method-faithful version of SOSTAC®, run under license and delivered exactly as PR Smith guides you through it.
+
+## What you'll walk away with
+- Plan
+- Crystal Clear Strategy
+- Tactical Gantt Chart
+- Actions Integrated into Workflow
+- Control Dashboard
+- Nudges, Reminders and Real-Time Alerts
+- Ongoing Tweaks and Improvements
+- Updating SWOT
+- Budget
+- A Plan that gets Executed
 
 ## Access
 - Discovery: find the method, understand its offer, and inspect access before signing in.
@@ -15,9 +27,9 @@ PR Smith's SOSTAC® is the world's most widely taught marketing planning framewo
 - Paid execution: AI exercises use credits; check entitlement and cost before running one.
 
 ## What it offers
-- AI-guided exercise: A guided AI conversation that draws out your thinking and captures it as you go. (access: paid, 24 credit(s) per full pass)
-- AI generation: A one-off AI step that drafts or suggests something from the work you've captured. (access: paid, 26 credit(s) per full pass)
-- AI review: An AI critique of your work that flags what to strengthen before you move on. (access: paid, 18 credit(s) per full pass)
+- AI-guided exercise: A guided AI conversation that draws out your thinking and captures it as you go. (access: paid, Extra effort per full pass)
+- AI generation: A one-off AI step that drafts or suggests something from the work you've captured. (access: paid, Extra effort per full pass)
+- AI review: An AI critique of your work that flags what to strengthen before you move on. (access: paid, Extra effort per full pass)
 - Reference resource: Reference material the author recommends for you to review in context. (access: account)
 
 ## Deliverables
