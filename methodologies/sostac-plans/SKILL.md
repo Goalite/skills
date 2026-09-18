@@ -28,9 +28,9 @@ PR Smith's SOSTAC® is the world's most widely taught marketing planning framewo
 
 ## What it offers
 - AI-guided exercise: A guided AI conversation that draws out your thinking and captures it as you go. (access: paid, Extra effort per full pass)
-- AI generation: A one-off AI step that drafts or suggests something from the work you've captured. (access: paid, Extra effort per full pass)
+- AI generation: AI drafts or suggests something from the work that you've captured. (access: paid, Extra effort per full pass)
 - AI review: An AI critique of your work that flags what to strengthen before you move on. (access: paid, Extra effort per full pass)
-- Reference resource: Reference material the author recommends for you to review in context. (access: account)
+- Reference resource: Optional additional reference material the author recommends for you to review in context. (access: account)
 
 ## Deliverables
 - Situation Analysis: Markdown, Pdf, Word
