@@ -126,7 +126,7 @@ This file describes SOSTAC® AI Assisted Plans; it does not contain it. The meth
 - Someone on a plan's team without a seat can read it but not change it (`list_run_seats`). The plan's facilitator gives seats.
 
 ## About this file
-- Describes SOSTAC® AI Assisted Plans version 0.9.14.
+- Describes SOSTAC® AI Assisted Plans version 0.9.15.
 - SOSTAC® is a trademark of PR Smith (prsmith.org · sostac.org).
 - The current version of this description, and prices: https://goalite.com/methods/sostac-plans
 - Free to read and share. It is a description: the method itself runs on Goalite, where the person's work is saved.
