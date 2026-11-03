@@ -27,11 +27,11 @@ PR Smith's SOSTAC® is the world's most widely taught marketing planning framewo
 
 ## Journey
 1. **Situation Analysis** — Where are you now? Build an honest, evidence-based picture across four lenses — your customers (who, why and how they buy), your competitors, your own company, and the external trends shaping your market — then generate a Situation Analysis Summary that draws out the few factors that matter most, including a single, customer-recognisable statement of your distinctive competitive advantage. This is the foundation every later stage rests on. As you fill in each item, note how you know it under 'How you know' — and where you have a source (a research report, a competitor screenshot, an analytics or data export, or a link), attach it — so the plan rests on what you know, not what you assume. *(free)*
-2. **Objectives** — Where do you want to get to? Turn the distinctive competitive advantage and the opportunities you surfaced in your situation analysis into clear, measurable objectives across the 5Ss — Sell (grow sales), Serve (add value), Save (save costs), Speak (get closer to customers) and Sizzle (extend the brand online). Each objective is SMART: a KPI, a baseline where you are today, a target, and a date. These become the very KPIs you track in Control, so be honest about what you can commit to — every later stage commits budget and effort to hitting these numbers. *(from Strategy)*
+2. **Objectives** — Where do you want to get to? Turn the distinctive competitive advantage and the opportunities you surfaced in your situation analysis into a few clear objectives, and say how you'll measure each. A marketing objective is about results — sales, market share, customers won and kept; a MarComms (Marketing Communications) objective is about what people think and feel from your communications — awareness, message recall, preference, sentiment, usually measured by a survey. Measure each objective with KPIs (Key Performance Indicators) at the levels that matter: the business outcome itself (ROI, sales, market share, acquisition and retention, NPS), the funnel and performance measures that produce it (visits, conversion rates, enquiries, qualified leads, cost per lead or order), and the engagement measures that give early warning (page views, followers, shares, awareness). Each KPI is SMART (Specific, Measurable, Achievable, Relevant, Time-bound): a baseline where you know it, a target and a date. The 5Ss (Sell, Serve, Save, Speak, Sizzle) can tag what an objective supports — Sell and Serve above all. These KPIs are the ones you track live in Control, so be honest about what you can commit to. *(from Strategy)*
 3. **Strategy** — How do you get there, broadly? Shape the strategy that will hit your objectives, using the TOPPP SEED components — Target market/s, Objectives, Positioning, Partnerships, Process, Sequence (earn credibility before raising visibility), Engagement, Experience and Data. Strategy is the big choices that drive every tactic; tactics without strategy is the noise before defeat. Anchor on who exactly you're targeting and how you want to be positioned in their mind, then add the components that matter for this plan — and finish by choosing one short, true strategy statement that sums up the big choice. *(from Strategy)*
 4. **Tactics** — The details of strategy. Craft a value proposition your primary customer would find compelling — the benefit, why you and not a competitor, and the proof that makes it believable — then choose the integrated mix of tactics, online and offline, that delivers it. A strong proposition lifts every tactic's conversion; a weak one undermines them all. Each tactic earns its place by delivering a strategy component or the value proposition, and carries a rough timeframe so it can become dated actions next. *(from Full Plan)*
 5. **Actions** — Ensuring excellent execution. Turn your tactics into concrete, owned, time-bound actions — each with a person and a date — and account for the four key resources every plan needs, the 4Ms: Men & women (the people and skills, and honestly where an agency or specialist is needed), Money (an indicative budget across your tactics), Minutes (time and timescales) and Megadata (the data you need to execute and to measure). Excellent execution is where plans are won or lost — a tactic with no owner, date or resource behind it is a wish. *(from Full Plan)*
-6. **Control** — How do you know if you're succeeding? Close the loop: turn your objectives' KPIs into a control dashboard — for each, what you'll measure, the target, how often you'll review it, and which dashboard or report you'll actually read it from — then compile the whole SOSTAC® plan into one document. A measure with no source is not measured; a plan with no control is a hope. *(from Full Plan)*
+6. **Control** — How do you know if you're succeeding? Close the loop: turn your objectives' KPIs (Key Performance Indicators) into a control dashboard — for each, what you'll measure, the target, how often you'll review it, and which dashboard or report you'll actually read it from — then compile the whole SOSTAC® plan into one document. A measure with no source is not measured; a plan with no control is a hope. *(from Full Plan)*
 
 ## Tiers
 SOSTAC® AI Assisted Plans is the same method on every tier. A tier decides how far a plan can go, not how good it is.
@@ -76,7 +76,7 @@ Prices are not written here because they change. Current prices: https://goalite
 ## Visuals
 - Company SWOT
 - Tactical mix Gantt chart
-- Resources (the 4Ms)
+- Resources (the 4Ms: Men & women, Money, Minutes, Megadata)
 - Budget
 
 ## FAQ
@@ -126,7 +126,7 @@ This file describes SOSTAC® AI Assisted Plans; it does not contain it. The meth
 - Someone on a plan's team without a seat can read it but not change it (`list_run_seats`). The plan's facilitator gives seats.
 
 ## About this file
-- Describes SOSTAC® AI Assisted Plans version 0.9.16.
+- Describes SOSTAC® AI Assisted Plans version 0.9.18.
 - SOSTAC® is a trademark of PR Smith (prsmith.org · sostac.org).
 - The current version of this description, and prices: https://goalite.com/methods/sostac-plans
 - Free to read and share. It is a description: the method itself runs on Goalite, where the person's work is saved.
