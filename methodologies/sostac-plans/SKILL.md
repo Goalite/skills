@@ -26,30 +26,30 @@ PR Smith's SOSTAC® is the world's most widely taught marketing planning framewo
 - Budget
 
 ## Journey
-1. **Situation Analysis** — Where are you now? Build an honest, evidence-based picture across four lenses — your customers (who, why and how they buy), your competitors, your own company, and the external trends shaping your market — then generate a Situation Analysis Summary that draws out the few factors that matter most, including a single, customer-recognisable statement of your distinctive competitive advantage. This is the foundation every later stage rests on. As you fill in each item, note how you know it under 'How you know' — and where you have a source (a research report, a competitor screenshot, an analytics or data export, or a link), attach it — so the plan rests on what you know, not what you assume. *(free)*
-2. **Objectives** — Where do you want to get to? Turn the distinctive competitive advantage and the opportunities from your situation analysis into SMART (Specific, Measurable, Achievable, Relevant, Time-bound) objectives for next year, each with the KPIs (Key Performance Indicators) that show whether it is achieved, and this year's estimated result listed alongside each target. Start with the priority list. Marketing objectives are about what customers do: sales revenue, customers kept and won, market share, CAC (customer acquisition cost), conversion rates and ROI (return on investment). MarComms (Marketing Communications) objectives are about what people think and feel: NPS (Net Promoter Score), sentiment, reviews, awareness and preference. Include at least one of each. In Control you decide how each KPI is tracked. *(from Strategy)*
-3. **Strategy** — How do you get there, broadly? Shape the strategy that will hit your objectives, using the TOPPP SEED components — Target market/s, Objectives, Positioning, Partnerships, Process, Sequence (earn credibility before raising visibility), Engagement, Experience and Data. Strategy is the big choices that drive every tactic; tactics without strategy is the noise before defeat. Anchor on who exactly you're targeting and how you want to be positioned in their mind, then add the components that matter for this plan — and finish by choosing one short, true strategy statement that sums up the big choice. *(from Strategy)*
-4. **Tactics** — The details of strategy. Craft a value proposition your primary customer would find compelling — the benefit, why you and not a competitor, and the proof that makes it believable — then choose the integrated mix of tactics, online and offline, that delivers it. A strong proposition lifts every tactic's conversion; a weak one undermines them all. Each tactic earns its place by delivering a strategy component or the value proposition, and carries a rough timeframe so it can become dated actions next. *(from Full Plan)*
-5. **Actions** — Ensuring excellent execution. Turn your tactics into concrete, owned, time-bound actions — each with a person and a date — and account for the four key resources every plan needs, the 4Ms: Men & women (the people and skills, and honestly where an agency or specialist is needed), Money (an indicative budget across your tactics), Minutes (time and timescales) and Megadata (the data you need to execute and to measure). Excellent execution is where plans are won or lost — a tactic with no owner, date or resource behind it is a wish. *(from Full Plan)*
-6. **Control** — How do you know if you're succeeding? Close the loop: for every objective's KPIs (Key Performance Indicators), decide how each is tracked: how often you'll read it, and where the number comes from (Google Analytics 4, a CSV upload or entered by hand). A KPI you can't read isn't measured; a plan with no control is a hope. Then compile the whole SOSTAC® plan into one document. *(from Full Plan)*
+1. **Situation Analysis** — Where are you now? Build an honest, evidence-based picture across four lenses — your customers (who, why and how they buy), your competitors, your own company, and the external trends shaping your market — then generate a Situation Analysis Summary that draws out the few factors that matter most, including a single, customer-recognisable statement of your distinctive competitive advantage. This is the foundation every later stage rests on. As you fill in each item, note how you know it under 'How you know' — and where you have a source (a research report, a competitor screenshot, an analytics or data export, or a link), attach it — so the plan rests on what you know, not what you assume. *(free, coming soon)*
+2. **Objectives** — Where do you want to get to? Turn the distinctive competitive advantage and the opportunities from your situation analysis into SMART (Specific, Measurable, Achievable, Relevant, Time-bound) objectives for next year, each with the KPIs (Key Performance Indicators) that show whether it is achieved, and this year's estimated result listed alongside each target. Start with the priority list. Marketing objectives are about what customers do: sales revenue, customers kept and won, market share, CAC (customer acquisition cost), conversion rates and ROI (return on investment). MarComms (Marketing Communications) objectives are about what people think and feel: NPS (Net Promoter Score), sentiment, reviews, awareness and preference. Include at least one of each. In Control you decide how each KPI is tracked. *(from Strategy, coming soon)*
+3. **Strategy** — Deliver three strategic options and choose the best one. Start from your main objective (shown at the top). Write down the barriers stopping you reaching it today, and the opportunities that will help. Then work through the nine TOPPP SEED components — Target market/s, Objectives, Positioning, Partnerships, Process, Sequence, Engagement, Experience and Data. Targeting and Positioning are compulsory: choose your target market(s), and be very clear how you want customers to see you (and whether that positioning is already agreed). Fill in what you can of the other seven; it is fine to leave some empty. Then let the AI generate three strategic options from your Situation Analysis and everything here, edit them, have the AI critique all three, and choose one. The other two are kept as options considered: the board may ask what else you looked at. *(from Strategy, coming soon)*
+4. **Tactics** — The details of strategy. Craft a value proposition your primary customer would find compelling — the benefit, why you and not a competitor, and the proof that makes it believable — then choose the integrated mix of tactics, online and offline, that delivers it. A strong proposition lifts every tactic's conversion; a weak one undermines them all. Each tactic earns its place by delivering a strategy component or the value proposition, and carries a rough timeframe so it can become dated actions next. *(from Full Plan, coming soon)*
+5. **Actions** — Ensuring excellent execution. Turn your tactics into concrete, owned, time-bound actions — each with a person and a date — and account for the four key resources every plan needs, the 4Ms: Men & women (the people and skills, and honestly where an agency or specialist is needed), Money (an indicative budget across your tactics), Minutes (time and timescales) and Megadata (the data you need to execute and to measure). Excellent execution is where plans are won or lost — a tactic with no owner, date or resource behind it is a wish. *(from Full Plan, coming soon)*
+6. **Control** — How do you know if you're succeeding? Close the loop: for every objective's KPIs (Key Performance Indicators), decide how each is tracked: how often you'll read it, and where the number comes from (Google Analytics 4, a CSV upload or entered by hand). A KPI you can't read isn't measured; a plan with no control is a hope. Then compile the whole SOSTAC® plan into one document. *(from Full Plan, coming soon)*
 
 ## Tiers
 SOSTAC® AI Assisted Plans is the same method on every tier. A tier decides how far a plan can go, not how good it is.
 
-**Situation Analysis** — free
+**Situation Analysis** — free — coming soon: it can't be had yet, but the person can join its waitlist to hear when it opens.
 - Stages: Situation Analysis.
 - People who can work on a plan: 1.
 - Plans at a time: 1.
 - AI help: guided conversations that work through a stage with you; drafts for you to review and keep; web research with sources; a review of each stage's work; a critique of any item; suggested improvements to any item (a one-off allowance).
 
-**Strategy**
+**Strategy** — coming soon: it can't be had yet, but the person can join its waitlist to hear when it opens.
 - Stages: Situation Analysis, Objectives, Strategy.
 - People who can work on a plan: 1.
 - Plans at a time: 1.
 - Includes: documents to download; certification.
 - AI help: guided conversations that work through a stage with you; drafts for you to review and keep; web research with sources; a review of each stage's work; a critique of any item; suggested improvements to any item (a monthly allowance).
 
-**Full Plan**
+**Full Plan** — coming soon: it can't be had yet, but the person can join its waitlist to hear when it opens.
 - Stages: Situation Analysis, Objectives, Strategy, Tactics, Actions, Control.
 - People who can work on a plan: 1.
 - Plans at a time: 1.
@@ -109,8 +109,7 @@ This file describes SOSTAC® AI Assisted Plans; it does not contain it. The meth
 **Before starting**
 - Check what the person has (`get_methodology_access`).
 - If they have not been approved yet, stop here and help them apply (above).
-- If they have nothing yet, offer the free tier. Check where they stand (`get_free_tier_standing`) and join it for them when they say yes (`join_free_tier`).
-- If they are put on the waitlist, tell them their position plainly. A place opens as the method gains subscribers; a paid tier skips the wait. Do not start the work until they are in.
+- If they have no access, say plainly what is needed and where to get it. Do not start the work without it.
 
 **Working through it**
 - Start a plan (`start_run`), then read what the current step asks for (`get_next_actions`) after starting and after every step. Offer one clear next step at a time.
@@ -121,12 +120,13 @@ This file describes SOSTAC® AI Assisted Plans; it does not contain it. The meth
 
 **When something is not included**
 - A stage beyond the person's tier is visible but locked. If a tool refuses, pass on its sentence as it is — it says what is not included and what would open it.
-- Do not do a locked stage's work yourself as a workaround. Say what the stage is for and that upgrading opens it.
+- Do not do a locked stage's work yourself as a workaround. Say what the stage is for and what opens it.
+- When the tier that opens it is coming soon or in early access, do not offer to upgrade. Offer to put the person on that tier's waitlist (`join_tier_waitlist`): they are told by email when it opens, and the owner may let them in early. Do not promise when.
 - If the free AI allowance is used up, the person can continue by hand or upgrade. Say so once; do not press.
 - Someone on a plan's team without a seat can read it but not change it (`list_run_seats`). The plan's facilitator gives seats.
 
 ## About this file
-- Describes SOSTAC® AI Assisted Plans version 0.9.22.
+- Describes SOSTAC® AI Assisted Plans version 0.9.26.
 - SOSTAC® is a trademark of PR Smith (prsmith.org · sostac.org).
 - The current version of this description, and prices: https://goalite.com/methods/sostac-plans
 - Free to read and share. It is a description: the method itself runs on Goalite, where the person's work is saved.
