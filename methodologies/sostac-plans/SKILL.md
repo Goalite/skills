@@ -40,6 +40,7 @@ SOSTAC® AI Assisted Plans is the same method on every tier. A tier decides how 
 - Stages: Situation Analysis.
 - People who can work on a plan: 1.
 - Plans at a time: 1.
+- Includes: documents to download.
 - AI help: guided conversations that work through a stage with you; drafts for you to review and keep; web research with sources; a review of each stage's work; a critique of any item; suggested improvements to any item (a one-off allowance).
 
 **Strategy** — coming soon: it can't be had yet, but the person can join its waitlist to hear when it opens.
@@ -126,7 +127,7 @@ This file describes SOSTAC® AI Assisted Plans; it does not contain it. The meth
 - Someone on a plan's team without a seat can read it but not change it (`list_run_seats`). The plan's facilitator gives seats.
 
 ## About this file
-- Describes SOSTAC® AI Assisted Plans version 0.9.28.
+- Describes SOSTAC® AI Assisted Plans version 0.9.32.
 - SOSTAC® is a trademark of PR Smith (prsmith.org · sostac.org).
 - The current version of this description, and prices: https://goalite.com/methods/sostac-plans
 - Free to read and share. It is a description: the method itself runs on Goalite, where the person's work is saved.
