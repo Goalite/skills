@@ -9,9 +9,9 @@ Turn strategic ambition into a professional, executable marketing plan across si
 
 PR Smith's SOSTAC® is the world's most widely taught marketing planning framework, used by practitioners in over 100 countries for more than 30 years. It takes you through six stages — Situation, Objectives, Strategy, Tactics, Action, and Control — to build a plan that's grounded in where you are now, clear on what you're aiming for, how you will get there and honest about how you'll know it's working. This isn't a generic AI approximation of a framework; it's the certified, method-faithful version of SOSTAC®, run under license and delivered exactly as PR Smith guides you through it.
 
-**Applications are open.** SOSTAC® AI Assisted Plans is opening to a first group of people, so it cannot be started straight away: you apply, and the method's owner decides who is let in.
+**You can start free.** The first stage — Situation Analysis — is free on Situation Analysis — no payment needed. See "Start free" below.
 
-**Apply for a place:** https://app.goalite.com/methods/sostac-plans?apply=1
+**Create a free account to begin:** https://app.goalite.com/methods/sostac-plans?subscribe=1
 
 ## What you'll walk away with
 - Robust Plan
@@ -26,17 +26,29 @@ PR Smith's SOSTAC® is the world's most widely taught marketing planning framewo
 - Budget
 
 ## Journey
-1. **Situation Analysis** — Where are you now? Build an honest, evidence-based picture across four lenses — your customers (who, why and how they buy), your competitors, your own company, and the external trends shaping your market — then generate a Situation Analysis Summary that draws out the few factors that matter most, including a single, customer-recognisable statement of your distinctive competitive advantage. This is the foundation every later stage rests on. As you fill in each item, note how you know it under 'How you know' — and where you have a source (a research report, a competitor screenshot, an analytics or data export, or a link), attach it — so the plan rests on what you know, not what you assume. *(free, early access)*
+1. **Situation Analysis** — Where are you now? Build an honest, evidence-based picture across four lenses — your customers (who, why and how they buy), your competitors, your own company, and the external trends shaping your market — then generate a Situation Analysis Summary that draws out the few factors that matter most, including a single, customer-recognisable statement of your distinctive competitive advantage. This is the foundation every later stage rests on. As you fill in each item, note how you know it under 'How you know' — and where you have a source (a research report, a competitor screenshot, an analytics or data export, or a link), attach it — so the plan rests on what you know, not what you assume. *(free)*
 2. **Objectives** — Where do you want to get to? Turn the distinctive competitive advantage and the opportunities from your situation analysis into SMART (Specific, Measurable, Achievable, Relevant, Time-bound) objectives for next year, each with the KPIs (Key Performance Indicators) that show whether it is achieved, and this year's estimated result listed alongside each target. Start with the priority list. Marketing objectives are about what customers do: sales revenue, customers kept and won, market share, CAC (customer acquisition cost), conversion rates and ROI (return on investment). MarComms (Marketing Communications) objectives are about what people think and feel: NPS (Net Promoter Score), sentiment, reviews, awareness and preference. Include at least one of each. In Control you decide how each KPI is tracked. *(from Strategy, coming soon)*
 3. **Strategy** — Deliver three strategic options and choose the best one. Start from your main objective and where you stand (shown at the top): the biggest opportunity and the biggest threat from your Situation Analysis, and your distinctive competitive advantage. Then work through the nine TOPPP SEED components — Target market/s, Objectives, Positioning, Partnerships, Process, Sequence, Engagement, Experience and Data. Targeting and Positioning are compulsory: choose your target market(s), and be very clear how you want customers to see you (and whether that positioning is already agreed). Fill in what you can of the other seven; it is fine to leave some empty. Once Targeting and Positioning are chosen, let the AI generate three strategic options, each built on them. Keep all three and choose the one you are going with, have the AI critique them, and edit or change your choice. The others are kept as options considered: the board may ask what else you looked at. *(from Strategy, coming soon)*
 4. **Tactics** — The details of strategy. Craft a value proposition your primary customer would find compelling — the benefit, why you and not a competitor, and the proof that makes it believable — then choose the integrated mix of tactics, online and offline, that delivers it. A strong proposition lifts every tactic's conversion; a weak one undermines them all. Each tactic earns its place by delivering a strategy component or the value proposition, and carries a rough timeframe so it can become dated actions next. *(from Full Plan, coming soon)*
 5. **Actions** — Ensuring excellent execution. Turn your tactics into concrete, owned, time-bound actions — each with a person and a date — and account for the four key resources every plan needs, the 4Ms: Men & women (the people and skills, and honestly where an agency or specialist is needed), Money (an indicative budget across your tactics), Minutes (time and timescales) and Megadata (the data you need to execute and to measure). Excellent execution is where plans are won or lost — a tactic with no owner, date or resource behind it is a wish. *(from Full Plan, coming soon)*
 6. **Control** — How do you know if you're succeeding? Close the loop: for every objective's KPIs (Key Performance Indicators), decide how each is tracked: how often you'll read it, and where the number comes from (Google Analytics 4, a CSV upload or entered by hand). A KPI you can't read isn't measured; a plan with no control is a hope. Then compile the whole SOSTAC® plan into one document. *(from Full Plan, coming soon)*
 
+## Start free
+The first stage — Situation Analysis — is free on **Situation Analysis**. A free Goalite account is all it takes.
+
+**Situation Analysis** — Where are you now? Build an honest, evidence-based picture across four lenses — your customers (who, why and how they buy), your competitors, your own company, and the external trends shaping your market — then generate a Situation Analysis Summary that draws out the few factors that matter most, including a single, customer-recognisable statement of your distinctive competitive advantage. This is the foundation every later stage rests on. As you fill in each item, note how you know it under 'How you know' — and where you have a source (a research report, a competitor screenshot, an analytics or data export, or a link), attach it — so the plan rests on what you know, not what you assume.
+- You will capture: Customer Profile, Competitor, Company Strength / Weakness, Trend, Situation Analysis Summary.
+
+What the free tier comes with:
+- One plan at a time, for one person.
+- AI help: guided conversations that work through a stage with you; drafts for you to review and keep; web research with sources; a review of each stage's work; a critique of any item; suggested improvements to any item. It comes as a one-off allowance — it does not refill, and the work can carry on by hand once it is used.
+- The later stages stay visible, so the person can see where the method goes; working on them needs a paid tier.
+- Free places are limited. Someone may be let in at once or put on a waitlist — ask, do not assume.
+
 ## Tiers
 SOSTAC® AI Assisted Plans is the same method on every tier. A tier decides how far a plan can go, not how good it is.
 
-**Situation Analysis** — free — early access: open to people the owner has approved; anyone else can join its waitlist.
+**Situation Analysis** — free
 - Stages: Situation Analysis.
 - People who can work on a plan: 1.
 - Plans at a time: 1.
@@ -92,15 +104,9 @@ Some people will use it to build a more robust plan and others will use it to co
 
 This file describes SOSTAC® AI Assisted Plans; it does not contain it. The method's own questions, exercises and standards are served one step at a time when you are connected. Follow them as given.
 
-**This method is taking applications**
-- SOSTAC® AI Assisted Plans is not open to everyone yet. A person applies, and the method's owner approves them, before they can subscribe or start a plan.
-- If the person has not been approved, the most useful thing you can do is say what the method offers, from this file, and help them apply: https://app.goalite.com/methods/sostac-plans?apply=1
-- Do not promise that they will be let in, or when. Do not start the work, or stand in for it, while they wait.
-- Once they are approved, everything below applies as written.
-
 **Connect**
 - Add the method to the assistant as an MCP connector at `https://sostac-plans.mcp.goalite.io` and sign in when prompted (a free Goalite account).
-- Someone who has been approved already has the Goalite account they sign in with. It is what keeps their plan.
+- If the person has no Goalite account, creating one is free: https://app.goalite.com/methods/sostac-plans?subscribe=1 (or as part of signing in). The account is what keeps their plan and holds their free place.
 - If you are not connected, the most useful thing you can do is help the person connect: say what the method offers from this file, then how to connect. Do not run it from memory.
 
 **Do not improvise the method**
@@ -109,8 +115,8 @@ This file describes SOSTAC® AI Assisted Plans; it does not contain it. The meth
 
 **Before starting**
 - Check what the person has (`get_methodology_access`).
-- If they have not been approved yet, stop here and help them apply (above).
-- If they have no access, say plainly what is needed and where to get it. Do not start the work without it.
+- If they have nothing yet, offer the free tier. Check where they stand (`get_free_tier_standing`) and join it for them when they say yes (`join_free_tier`).
+- If they are put on the waitlist, tell them their position plainly. A place opens as the method gains subscribers. Do not start the work until they are in.
 
 **Working through it**
 - Start a plan (`start_run`), then read what the current step asks for (`get_next_actions`) after starting and after every step. Offer one clear next step at a time.

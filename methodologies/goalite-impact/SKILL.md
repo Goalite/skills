@@ -1,17 +1,27 @@
 ---
 name: "goalite-impact"
-description: "Turn an ambition into a funded, measurable plan with the IMPACT Framework \u2014 conducted step by step by AI, certified by the method\u0027s owner."
+description: "Everyone has more dreams than time. IMPACT helps you choose the one that matters most, give it a reason that lasts, and turn it into a plan you actually keep."
 ---
 
 # IMPACT Framework
 
-Turn an ambition into a funded, measurable plan with the IMPACT Framework — conducted step by step by AI, certified by the method's owner.
+Everyone has more dreams than time. IMPACT helps you choose the one that matters most, give it a reason that lasts, and turn it into a plan you actually keep.
 
-The IMPACT Framework walks you from a raw ambition to a working, reviewable plan across six stages: Identify, Motivate, Plan, Act, Check, Transform. Each stage is conducted as a guided working session — the AI probes vague answers, pushes for specifics, and captures structured decisions you can revisit — and each stage produces its own deliverable, composed into a final certified plan.
+Everyone has a list of things they’d love to do one day. Most of us never write it down, so nothing on it ever gets chosen. IMPACT starts with that list: your dreams, across every part of your life. You choose the one that would change the most, turn it into a goal, and find your why: the reason that still holds on a bad week, in your own words. From there you plan the milestones, steps and habits that get you there, track your progress as you go, and look honestly at what’s working. At the end of each cycle, what you’ve learned carries into the next, whether you keep going with the same goal or turn to another dream.
+
+The AI coaches you through each stage. It asks better questions and suggests only when you ask, and your why is always yours.
 
 **Coming soon.** IMPACT Framework is not open yet: it cannot be subscribed to, applied for or started.
 
 **Follow it here:** https://goalite.com/methods/goalite-impact
+
+## What you'll walk away with
+- A list of your dreams across every part of your life, each with a picture of what it would change.
+- One goal, chosen for its impact, with a why in your own words.
+- Success measures with today’s number, a target and a date, tracked as you go.
+- A plan of milestones, diary-sized steps and habits you can keep on your worst day.
+- An honest reflection on what worked, and lessons you’ll carry forward.
+- Your IMPACT Plan and Cycle Report, ready to share or come back to.
 
 ## For assistants
 - Do not offer to connect or run IMPACT Framework: it is not open yet.
